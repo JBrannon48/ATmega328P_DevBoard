@@ -3167,7 +3167,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "TXLED"
 			(at 154.6225 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3258,7 +3258,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RXLED"
 			(at 163.5125 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
